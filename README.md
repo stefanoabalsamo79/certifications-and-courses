@@ -1,4 +1,4 @@
-# certifications-and-courses
+# Certifications and courses
 Certificates from courses and organization I have earned
 
 
