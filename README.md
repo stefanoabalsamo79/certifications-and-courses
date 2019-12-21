@@ -41,5 +41,7 @@ https://verify.edx.org/cert/edf9555f454543dc927a408edd00b43f
 #### Hadoop Platform and Application Framework -  Course Certificate | October, 2015
 https://www.coursera.org/account/accomplishments/verify/4FY9LQ6DG8JN
 
+#### Preliminary English Test Certification (B1) — University of Cambridge | June, 2015
+
 #### FP101x Introduction to Functional Programming – Course Certificate | January, 2015
 https://verify.edx.org/cert/1aa1fa1dacfd491bbdd6f26ee13e263b
