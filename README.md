@@ -1,6 +1,7 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### Architecting and developing application with Kubernetes - learnk8s.io | March, 2020
 
 #### RU102JS: Redis for JavaScript Developers - Redis Labs | November, 2019
 https://university.redislabs.com/certificates/f5afea13674e4c308cde119d71dbc465
