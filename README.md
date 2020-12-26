@@ -1,6 +1,9 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass) - Udemy | December, 2020
+https://www.udemy.com/certificate/UC-19c51db2-c26a-4293-b3d5-a43869f519f2
+
 #### Architecting and developing application with Kubernetes - learnk8s.io | March, 2020
 
 #### RU102JS: Redis for JavaScript Developers - Redis Labs | November, 2019
@@ -21,16 +24,16 @@ https://www.coursera.org/account/accomplishments/certificate/VVRGN3W9UUD9
 #### Introduction to TypeScript2 - Course Certificate - July, 2017
 https://courses.edx.org/certificates/50fc5d2348294d57bbc597e5feac79ae
 
-#### UML Class Diagrams for Software Engineering - Course Certificate | April, 2017	
+#### UML Class Diagrams for Software Engineering - Course Certificate | April, 2017
 https://courses.edx.org/certificates/f1472a97e56f46b88c989a7b55878d74
 
-#### Graph Analytics for Big Data - Course Certificate | March, 2016 
+#### Graph Analytics for Big Data - Course Certificate | March, 2016
 https://www.coursera.org/account/accomplishments/certificate/ACHKF7A4T8ZL
 
 #### Machine Learning with Big Data - Course Certificate | January, 2016
 https://www.coursera.org/account/accomplishments/verify/3LG8H4AK7KXN
 
-#### Introduction to Big Data Analytics - Course Certificate | November, 2015 
+#### Introduction to Big Data Analytics - Course Certificate | November, 2015
 https://www.coursera.org/account/accomplishments/verify/CZWYFZ477C4B
 
 #### Introduction to Big Data - Course Certificate | October, 2015
