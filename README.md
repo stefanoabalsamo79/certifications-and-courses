@@ -1,7 +1,10 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
-#### System Design - AlgoExpert | May, 2021
+#### Algo Expert - AlgoExpert | July, 2021
+https://certificate.algoexpert.io/AE-010e32c32b
+
+#### System Expert - AlgoExpert | May, 2021
 https://certificate.algoexpert.io/SE-7ee1d4aa88
 
 #### CSS - The Complete Guide 2021 (incl. Flexbox, Grid & Sass) - Udemy | December, 2020
