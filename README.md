@@ -1,6 +1,21 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### Service Mesh with Istio - A Cloud Guru | November, 2021
+https://verify.acloud.guru/61621050D449
+
+#### Google Cloud Functions Deep Dive - A Cloud Guru | November, 2021
+https://verify.acloud.guru/F1E0D535B2A6
+
+#### Google Cloud Platform for Solution Architects - Cloud Academy | October 2021
+https://certificates.cloudacademy.com/90aa4e933f973636a252c3bd9e7df147d302bfb0.pdf
+
+#### Introduction to GitOps - Cloud Academy | September 2021
+https://certificates.cloudacademy.com/362019fd54fe2a3a08777f898a8c942181fc3926.pdf
+
+#### Google BigQuery Learning Path - Cloud Academy | September 2021
+https://certificates.cloudacademy.com/0765b37cd9cb4e0655bd5fbc494bebc35ecef545.pdf
+
 #### Algo Expert - AlgoExpert | July, 2021
 https://certificate.algoexpert.io/AE-010e32c32b
 
