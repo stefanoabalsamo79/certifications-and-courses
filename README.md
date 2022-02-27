@@ -1,6 +1,18 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### GitOps Fundamentals With Argo - CodeFresh | February, 2022
+https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/6210a5959a70db456e70a538
+
+#### Apache Kafka Deep Dive - A Cloud Guru | February, 2022
+https://verify.acloud.guru/85666B2B48BE
+
+#### Kubernetes Security - A Cloud Guru | December, 2021
+https://verify.acloud.guru/905274F19073
+
+#### Infrastructure as Code on GCP with Deployment Manager - A Cloud Guru | November, 2021
+https://verify.acloud.guru/51D42A837107
+
 #### Service Mesh with Istio - A Cloud Guru | November, 2021
 https://verify.acloud.guru/61621050D449
 
