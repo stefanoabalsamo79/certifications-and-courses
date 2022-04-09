@@ -1,6 +1,9 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### Envoy Fundamentals - Tetrate Academy | April, 2022
+https://academy.tetrate.io/certificates/eospha8rro
+
 #### GitOps Fundamentals With Argo - CodeFresh | February, 2022
 https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/6210a5959a70db456e70a538
 
