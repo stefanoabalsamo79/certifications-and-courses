@@ -1,6 +1,9 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### HashiCorp Vault - A Cloud Guru | June, 2022
+https://verify.acloud.guru/70D776BB4074
+
 #### M201 MongoDB Performance - Course Certificate | June, 2022
 https://university.mongodb.com/course_completion/4628cd81-9aa7-4a9d-b32e-86cb84ee64ee
 
