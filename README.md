@@ -1,6 +1,9 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### Advanced Terraform with GCP - A Cloud Guru | November, 2022
+https://verify.acloud.guru/C866C0BCA1FD
+
 #### HashiCorp Vault - A Cloud Guru | June, 2022
 https://verify.acloud.guru/0846F5EAD864
 
