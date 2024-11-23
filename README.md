@@ -1,6 +1,9 @@
 # Certifications and courses
 Certificates from courses and organization I have earned
 
+#### Atlas Search - MongoDB University | November, 2024
+https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/61388077-d406-50cc-a3b6-94a3d207af44-stefano-abalsamo-0a308a3d-bb21-4439-9aa5-b3f1108eb138-certificate.pdf
+
 #### CI/CD with Tekton (LFS274) - The Linux Foundation | September, 2024
 https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c6635678-15cd-4519-81f5-0f828b61c5b1-stefano-abalsamo-e415d9f1-650a-4cab-8510-3815d06d9ab2-certificate.pdf
 
@@ -10,7 +13,7 @@ https://verify.acloud.guru/C866C0BCA1FD
 #### HashiCorp Vault - A Cloud Guru | June, 2022
 https://verify.acloud.guru/0846F5EAD864
 
-#### M201 MongoDB Performance - Course Certificate | June, 2022
+#### M201 MongoDB Performance - MongoDB University | June, 2022
 https://university.mongodb.com/course_completion/4628cd81-9aa7-4a9d-b32e-86cb84ee64ee
 
 #### Envoy Fundamentals - Tetrate Academy | April, 2022
@@ -66,7 +69,7 @@ https://www.coursera.org/account/accomplishments/specialization/EVMQDVSNEC7Z
 #### DEV283x: Introduction to Node.js - Course Certificate | January, 2018
 https://courses.edx.org/certificates/7bca0178b07f47cb8eafcf0fe5d27b28
 
-#### M101P: MongoDB for Developers - Course Certificate | December, 2017
+#### M101P: MongoDB for Developers - MongoDB University | December, 2017
 https://university.mongodb.com/course_completion/4e3ad84e-58f9-4127-8ca3-65292435
 
 #### Introduction to MongoDB - Course Certificate | November, 2017
