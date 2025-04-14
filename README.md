@@ -1,5 +1,8 @@
-# Certifications and courses
+## Certifications and courses
 Certificates from courses and organization I have earned
+
+#### Introduction to FinOps - FinOps Foundation | April, 2025
+https://verify.skilljar.com/c/ysxv82ub5nut
 
 #### Atlas Search - MongoDB University | November, 2024
 https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/61388077-d406-50cc-a3b6-94a3d207af44-stefano-abalsamo-0a308a3d-bb21-4439-9aa5-b3f1108eb138-certificate.pdf
