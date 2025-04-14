@@ -1,4 +1,4 @@
-# Certifications and courses
+## Certifications and courses
 Certificates from courses and organization I have earned
 
 #### Introduction to FinOps - FinOps Foundation | April, 2025
